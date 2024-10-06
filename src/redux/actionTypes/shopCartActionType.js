@@ -1,0 +1,6 @@
+export const CREATE_CART = "CREATE_CART";
+export const ADD_PROD_2CART = "ADD_PROD_2CART";
+export const INC_PROD_INCART = "INC_PROD_INCART";
+export const DEC_PROD_INCART = "DEC_PROD_INCART";
+export const DELETE_CART_ITEM = "DELETE_CART_ITEM";
+export const CLEAR_CART = "CLEAR_CART";
